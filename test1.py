@@ -1,4 +1,4 @@
-print("hello world\n")
+print("hello world!\n")
 print("this is a practice.\n")
 print("calculate the davinchi numbers:")
 
